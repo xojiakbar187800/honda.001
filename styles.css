@@ -1,0 +1,138 @@
+* {
+     margin: 0;
+     box-sizing: border-box;
+}
+
+
+
+.wrapper {
+     height: 350vh;
+}
+
+
+.first {
+     width: 100%;
+     height: 700px;
+     margin-top: 100px;
+     background-image: url(1640880672_5-hdpic-club-p-khonda-akkord-8-tyuning-8.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+.big {
+     
+     width: 1300px;
+     height: 600px;
+ 
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 100px;
+
+}
+
+.smol {
+     width: 400px;
+     height: 600px;
+     background-image: url(honda\ 1.jfif);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     margin-left: 90px;
+     margin-right: 20px;
+}
+
+.smoll {
+     width: 400px;
+     height: 600px;
+     background-image: url(honda\ 2.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     margin-right: 20px;
+}
+
+.info {
+     width: 400px;
+     height: 600px;
+     text-align: center;
+     margin-right: 20px;
+     font-family: cursive;
+}
+
+.info p {
+     font-size: 30px;
+
+}
+
+
+.kop {
+     width: 100%;
+     height: 900px;
+     margin-top: 50px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-wrap: wrap;
+     
+}
+
+.rasm {
+     width: 250px;
+     height: 350px;
+     background-color: black;
+     margin-left: 100px;
+     margin-top: 30px;
+     background-image: url(honda001.jfif);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+.rasm:nth-child(2) {
+     background-image: url(honda002.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+.rasm:nth-child(3) {
+     background-image: url(honda03.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+.rasm:nth-child(4) {
+     background-image: url(honda\ orqa1.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+.rasm:nth-child(5) {
+     background-image: url(honda\ orqa\ 2.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+.rasm:nth-child(6) {
+     background-image: url(honda\ orqa\ 3.jpg);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+footer {
+     background-color: aqua;
+     width: 100%;
+     height: 300px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+
+.as {
+     color: black;
+     margin-left: 50px;
+}
